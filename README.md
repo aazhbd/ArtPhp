@@ -8,7 +8,11 @@ MVC based PHP framework developed in 2009, to work without OOP, with smart web e
  - Data management using PDO
  - Library Management
  - Event dispatch from bootstrapper
- - etc.
+ - JQuery
+ - SwiftMailer
+ - WYSIWYG editor, FckEditor
+ 
+ best tuned for PHP-MySQL development.
 
 ## Contact
 AAZH (aazhbd@yahoo.com)
