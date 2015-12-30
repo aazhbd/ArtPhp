@@ -1,5 +1,5 @@
 # ArtPhp
-A Model-View-Controller based PHP web development framework without OOP
+A Model-View-Controller based independent PHP web development framework for legacy work
 
 ## Description
 MVC based PHP framework developed in 2009, to work without OOP, with smart web event management. Takes advantage of technologies like,
